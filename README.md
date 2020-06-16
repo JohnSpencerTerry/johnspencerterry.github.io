@@ -1,6 +1,6 @@
 # Hi, I'm John
 
-Software Engineer at [MLevel](https://mlevel.com/), an industry learing learning development platform. 
+Software Engineer at [MLevel](https://mlevel.com/), an industry leading learning development platform. 
 
 ## What I use
 
