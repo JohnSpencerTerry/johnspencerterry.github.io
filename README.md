@@ -2,11 +2,13 @@
 
 Software Engineer at [MLevel](https://mlevel.com/), an industry learing learning development platform. 
 
-This is a place to collect some thoughts, projects, and other miscellany about software engineering, web development, and programming. 
+## What I use
 
-I'm using C# with .NET Core and .NET Framework, Angular, SQL Server, Azure, as my daily drivers. Maintaining legacy code in Knockout, jQuery, PHP, Wordpress, and more. I have varied degrees of experience using Ruby on Rails, Python, React, Xamarin, Docker, Kubernetes, Laravel, . Occasionally dabbling in IoT, Machine Learning, Natural Language Processing, Data Science, and more
+I'm using C# with .NET Core and .NET Framework, Angular, SQL Server, Azure, as my daily drivers. Maintaining legacy code in Knockout, jQuery, PHP, Wordpress, and more. I have varied degrees of experience using Ruby on Rails, Python, React, Xamarin, Docker, Kubernetes, Laravel, MongoDB, MySQL, Drupal, Selenium, and about a million other tools. 
 
-Mainly innterested in Solutions Architecture, DevOps, Front End Development, Product Development, User Experience, Data Analysis, and many other areas that help SaaS companies scale their technology. 
+Occasionally dabbling in IoT, Machine Learning, Natural Language Processing, Data Science, and some more "computer sciencey" areas but largely focused on leveraging tech to make  really awesome products for people to use. 
+
+Mainly interested in Solutions Architecture, DevOps, Front End Development, Product Development, User Experience, Data Analysis, and many other areas that help SaaS companies scale their technology. 
 
 
 ## Tools For a Great Day
