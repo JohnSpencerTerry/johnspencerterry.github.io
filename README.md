@@ -4,7 +4,7 @@ Software Engineer at [MLevel](https://mlevel.com/), an industry learing learning
 
 ## What I use
 
-I'm using C# with .NET Core and .NET Framework, Angular, SQL Server, Azure, as my daily drivers. Maintaining legacy code in Knockout, jQuery, PHP, Wordpress, and more. I have varied degrees of experience using Ruby on Rails, Python, React, Xamarin, Docker, Kubernetes, Laravel, MongoDB, MySQL, Drupal, Selenium, and about a million other tools. 
+I'm using C# with .NET Core and .NET Framework, doing front end in Angular with scss, storing data in SQL Server and CosmoDB, and hosting on Azure. Maintaining legacy code in Knockout, jQuery, PHP, Wordpress, and more. I have varied degrees of experience using Ruby on Rails, Python, React, Xamarin, Docker, Kubernetes, Laravel, MongoDB, MySQL, Drupal, Selenium, and about a million other tools. 
 
 Occasionally dabbling in IoT, Machine Learning, Natural Language Processing, Data Science, and some more "computer sciencey" areas but largely focused on leveraging tech to make  really awesome products for people to use. 
 
